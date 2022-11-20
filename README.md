@@ -25,4 +25,4 @@ Attack Performed:
 
 The code and the related details are available in the folder Code.
 
-Instructions to RUN the code:
+Instructions to RUN the code: [link](https://github.com/Sharanya-Saha/Snort-based-Intrusion-Detection-System-ft.-Models/blob/master/Code/README.txt)

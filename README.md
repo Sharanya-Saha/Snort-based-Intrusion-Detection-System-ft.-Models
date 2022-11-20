@@ -24,3 +24,5 @@ Attack Performed:
 
 
 The code and the related details are available in the folder Code.
+
+Instructions to RUN the code:
